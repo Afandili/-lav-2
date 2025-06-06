@@ -1,0 +1,20 @@
+.body {
+    width: 100px;
+    background-color: red;
+}
+
+.card {
+    background-color: white;
+    width: 150px;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+
+.img {
+    width: 200px;
+}
+
+.logo {
+    text-align: center;
+}
